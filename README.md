@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**263311487-ux/263311487-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that make AI agents **prove their work in a real browser**.
 
-Here are some ideas to get you started:
+**Featured project — [dsh-verify](https://github.com/263311487-ux/dsh-verify)**
+Independent browser acceptance testing for agent deliverables: write a JSON checklist of what a human would check, get a real-Chromium verdict with an HTML report and exit code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+npx dsh-verify --help
+```
+
+- 🧪 MCP server for Claude Code / Cursor / Copilot · GitHub Action · DeepSeek Harness plugin
+- 🎯 Verifies computed styles & pixels, not DOM class lists
+- 🚀 npm: [`dsh-verify`](https://www.npmjs.com/package/dsh-verify)
+
+Also exploring [Xun](https://github.com/263311487-ux/Xun) — a unified theory of consciousness.
+
+*Agents self-test and pass. Real browsers tell the truth.*
