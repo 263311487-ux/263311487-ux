@@ -1,0 +1,694 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-08T13:02:55.335638+00:00",
+  "public_count": 41,
+  "repositories": [
+    {
+      "name": "-",
+      "lifecycle": "placeholder",
+      "upstream": null,
+      "priority": "P2",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "263311487-ux",
+      "lifecycle": "profile",
+      "upstream": null,
+      "priority": "P0",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "Awesome-DeepSeek-Harness-Plugins",
+      "lifecycle": "fork",
+      "upstream": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 25,
+          "state": "closed",
+          "url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins/pull/25",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "Awesome-Scientific-Skills",
+      "lifecycle": "fork",
+      "upstream": "InternScience/Awesome-Scientific-Skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 17,
+          "state": "open",
+          "url": "https://github.com/InternScience/Awesome-Scientific-Skills/pull/17",
+          "title": "Add falsify — scientific thinking & methodology skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "Oh-My-DSH",
+      "lifecycle": "fork",
+      "upstream": "like-study1/Oh-My-DSH",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 15,
+          "state": "closed",
+          "url": "https://github.com/like-study1/Oh-My-DSH/pull/15",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "Xun",
+      "lifecycle": "research",
+      "upstream": null,
+      "priority": "P1",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "agentic-awesome-skills",
+      "lifecycle": "fork",
+      "upstream": "sickn33/agentic-awesome-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 1287,
+          "state": "merged",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1287",
+          "title": "feat: update falsify — add MODE SELECTION gate and Nudge routing (0.8.3)"
+        },
+        {
+          "number": 1286,
+          "state": "closed",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1286",
+          "title": "feat: add falsify — scientific thinking protocol skill"
+        },
+        {
+          "number": 1266,
+          "state": "closed",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1266",
+          "title": "feat: add falsify — scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "ai-comic-drama",
+      "lifecycle": "product",
+      "upstream": null,
+      "priority": "P0",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-agent-skills",
+      "lifecycle": "fork",
+      "upstream": "heilcheng/awesome-agent-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 451,
+          "state": "open",
+          "url": "https://github.com/heilcheng/awesome-agent-skills/pull/451",
+          "title": "Add falsify — scientific thinking protocol skill (Community Skills)"
+        },
+        {
+          "number": 444,
+          "state": "open",
+          "url": "https://github.com/heilcheng/awesome-agent-skills/pull/444",
+          "title": "Add falsify: scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-agent-skills-1",
+      "lifecycle": "fork",
+      "upstream": "libukai/awesome-agent-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 136,
+          "state": "open",
+          "url": "https://github.com/libukai/awesome-agent-skills/pull/136",
+          "title": "Add falsify: scientific thinking protocol skill for AI agents"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-agent-skills-2",
+      "lifecycle": "fork",
+      "upstream": "JackyST0/awesome-agent-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 88,
+          "state": "closed",
+          "url": "https://github.com/JackyST0/awesome-agent-skills/pull/88",
+          "title": "Add falsify — scientific thinking protocol skill (Productivity)"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-agent-skills-3",
+      "lifecycle": "fork",
+      "upstream": "philipbankier/awesome-agent-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 73,
+          "state": "open",
+          "url": "https://github.com/philipbankier/awesome-agent-skills/pull/73",
+          "title": "feat: add falsify — reasoning & scientific thinking skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-agent-skills-volt",
+      "lifecycle": "fork",
+      "upstream": "VoltAgent/awesome-agent-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 975,
+          "state": "closed",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/975",
+          "title": "Add falsify — scientific thinking protocol skill (Productivity and Collaboration)"
+        },
+        {
+          "number": 970,
+          "state": "closed",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/970",
+          "title": "Add falsify: scientific thinking protocol skill"
+        },
+        {
+          "number": 969,
+          "state": "closed",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/969",
+          "title": "Add falsify: scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-claude-code",
+      "lifecycle": "fork",
+      "upstream": "hesreallyhim/awesome-claude-code",
+      "priority": "P2",
+      "pull_requests": [],
+      "contribution_status": "no_matching_pr_in_search",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-claude-skills",
+      "lifecycle": "fork",
+      "upstream": "travisvn/awesome-claude-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 1176,
+          "state": "open",
+          "url": "https://github.com/travisvn/awesome-claude-skills/pull/1176",
+          "title": "Add falsify: scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-claude-skills-1",
+      "lifecycle": "fork",
+      "upstream": "BehiSecc/awesome-claude-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 632,
+          "state": "open",
+          "url": "https://github.com/BehiSecc/awesome-claude-skills/pull/632",
+          "title": "Add falsify: scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-claude-skills-composio",
+      "lifecycle": "fork",
+      "upstream": "ComposioHQ/awesome-claude-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 1738,
+          "state": "open",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills/pull/1738",
+          "title": "Add falsify: scientific thinking protocol skill for AI agents"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-codex-skills",
+      "lifecycle": "fork",
+      "upstream": "composio-community/awesome-codex-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 257,
+          "state": "open",
+          "url": "https://github.com/composio-community/awesome-codex-skills/pull/257",
+          "title": "Add falsify — scientific thinking protocol skill (Meta & Utilities)"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-copilot",
+      "lifecycle": "fork",
+      "upstream": "github/awesome-copilot",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 2816,
+          "state": "closed",
+          "url": "https://github.com/github/awesome-copilot/pull/2816",
+          "title": "Add falsify: scientific thinking protocol skill 🤖🤖🤖"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-deepseek-harness",
+      "lifecycle": "fork",
+      "upstream": "0xsline/awesome-deepseek-harness",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 412,
+          "state": "merged",
+          "url": "https://github.com/0xsline/awesome-deepseek-harness/pull/412",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-deepseek-integration",
+      "lifecycle": "fork",
+      "upstream": "deepseek-ai/awesome-deepseek-integration",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 726,
+          "state": "open",
+          "url": "https://github.com/deepseek-ai/awesome-deepseek-integration/pull/726",
+          "title": "Add falsify: scientific thinking protocol skill (DeepSeek Harness compatible)"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-plugin",
+      "lifecycle": "fork",
+      "upstream": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 3596,
+          "state": "open",
+          "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/3596",
+          "title": "Add falsify — scientific thinking protocol skill (Skills)"
+        },
+        {
+          "number": 1402,
+          "state": "merged",
+          "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1402",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-plugin-1",
+      "lifecycle": "fork",
+      "upstream": "Anil-matcha/awesome-vibecoded-saas",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 40,
+          "state": "merged",
+          "url": "https://github.com/Anil-matcha/awesome-vibecoded-saas/pull/40",
+          "title": "Add dsh-verify — browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-plugin-bc",
+      "lifecycle": "fork",
+      "upstream": "beancookie/awesome-dsh-plugin",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 59,
+          "state": "merged",
+          "url": "https://github.com/beancookie/awesome-dsh-plugin/pull/59",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-plugins",
+      "lifecycle": "fork",
+      "upstream": "cccakeee/awesome-dsh-plugins",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 9,
+          "state": "closed",
+          "url": "https://github.com/cccakeee/awesome-dsh-plugins/pull/9",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-plugins-1",
+      "lifecycle": "fork",
+      "upstream": "AdamPlatin123/dsh-plugin-radar",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 311,
+          "state": "closed",
+          "url": "https://github.com/AdamPlatin123/dsh-plugin-radar/pull/311",
+          "title": "Add dsh-verify: real-browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-walkinglabs",
+      "lifecycle": "fork",
+      "upstream": "walkinglabs/awesome-deepseek-harness-plugins",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 18,
+          "state": "merged",
+          "url": "https://github.com/walkinglabs/awesome-deepseek-harness-plugins/pull/18",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-dsh-yanggg",
+      "lifecycle": "fork",
+      "upstream": "Alex-Yanggg/awesome-DSH-plugin",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 75,
+          "state": "open",
+          "url": "https://github.com/Alex-Yanggg/awesome-DSH-plugin/pull/75",
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-llm-apps",
+      "lifecycle": "fork",
+      "upstream": "Shubhamsaboo/awesome-llm-apps",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 1124,
+          "state": "closed",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1124",
+          "title": "Add falsify — scientific thinking protocol skill (external entry)"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-llm-skills",
+      "lifecycle": "fork",
+      "upstream": "Prat011/awesome-llm-skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 227,
+          "state": "open",
+          "url": "https://github.com/Prat011/awesome-llm-skills/pull/227",
+          "title": "Add falsify: scientific thinking protocol skill"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-markdown",
+      "lifecycle": "fork",
+      "upstream": "mundimark/awesome-markdown",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 140,
+          "state": "open",
+          "url": "https://github.com/mundimark/awesome-markdown/pull/140",
+          "title": "Add Imprint: AI-native Markdown to PDF with automated 0-100 quality report"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-mcp-servers",
+      "lifecycle": "fork",
+      "upstream": "punkpeye/awesome-mcp-servers",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 12495,
+          "state": "open",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers/pull/12495",
+          "title": "Add imprint-pdf MCP server to File Systems 🤖🤖🤖"
+        },
+        {
+          "number": 12303,
+          "state": "open",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers/pull/12303",
+          "title": "Add dsh-verify MCP server (browser acceptance testing for agent deliverables) 🤖🤖🤖"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-pdf",
+      "lifecycle": "fork",
+      "upstream": "py-pdf/awesome-pdf",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 51,
+          "state": "open",
+          "url": "https://github.com/py-pdf/awesome-pdf/pull/51",
+          "title": "Add imprint-pdf to Generators — AI-native, print-grade Markdown→PDF"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-regression-testing",
+      "lifecycle": "fork",
+      "upstream": "mojoaxel/awesome-regression-testing",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 114,
+          "state": "open",
+          "url": "https://github.com/mojoaxel/awesome-regression-testing/pull/114",
+          "title": "Add dsh-verify — real-browser acceptance checks with screenshot receipts"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "awesome-testing",
+      "lifecycle": "fork",
+      "upstream": "TheJambo/awesome-testing",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 212,
+          "state": "closed",
+          "url": "https://github.com/TheJambo/awesome-testing/pull/212",
+          "title": "Add dsh-verify — the quality gate for agent-built web apps (real-browser acceptance checks)"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "deepseek-plugin-store",
+      "lifecycle": "fork",
+      "upstream": "Ericwong5021/deepseek-plugin-store",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 126,
+          "state": "closed",
+          "url": "https://github.com/Ericwong5021/deepseek-plugin-store/pull/126",
+          "title": "Add dsh-verify (Witness) to editor picks - real-browser acceptance testing"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "dsh-verify",
+      "lifecycle": "product",
+      "upstream": null,
+      "priority": "P0",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "dsh-web-team-demo",
+      "lifecycle": "demo",
+      "upstream": null,
+      "priority": "P2",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "falsify",
+      "lifecycle": "product",
+      "upstream": null,
+      "priority": "P0",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "imprint-pdf",
+      "lifecycle": "product",
+      "upstream": null,
+      "priority": "P0",
+      "pull_requests": [],
+      "contribution_status": "not_applicable",
+      "local_divergence": "not_applicable",
+      "last_checked": "2026-10-08"
+    },
+    {
+      "name": "skills",
+      "lifecycle": "fork",
+      "upstream": "theskillsdirectory/skills",
+      "priority": "P2",
+      "pull_requests": [
+        {
+          "number": 10,
+          "state": "open",
+          "url": "https://github.com/theskillsdirectory/skills/pull/10",
+          "title": "Add falsify skill — scientific thinking protocol for AI agents"
+        }
+      ],
+      "contribution_status": "matched_author_prs",
+      "local_divergence": "not_checked",
+      "last_checked": "2026-10-08"
+    }
+  ],
+  "pr_search": {
+    "query": "is:pr author:263311487-ux",
+    "total_count": 40,
+    "incomplete_results": false,
+    "retrieved_on": "2026-10-08",
+    "counts": {
+      "open": 19,
+      "closed": 15,
+      "merged": 6
+    }
+  }
+}
