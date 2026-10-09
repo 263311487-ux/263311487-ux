@@ -61,6 +61,10 @@ Forks are contribution/reference copies. Linked PRs identify observed work; unma
 
 ## Maintenance practice
 
+Search reconciliation: 39 parent-repository matches + [one closed PR in the owned awesome-claude-code fork](https://github.com/263311487-ux/awesome-claude-code/pull/1) = 40 authored PRs. The excluded record is retained in catalog.json with its reason; CI checks both totals and state counts.
+
+Provenance: repository names and fork parents came from GitHub REST GET /users/263311487-ux/repos (owner, 100 per page) and GET /repos/263311487-ux/{name}. PRs came from GET /search/issues?q=is:pr+author:263311487-ux&per_page=100 (40 results, incomplete_results=false). These are dated observations, not continuing monitoring. The catalog checker verifies internal consistency, not the truth of the remote API.
+
 - Distinguish source releases from npm/PyPI availability; keep install paths current.
 - Visits, downloads and clones are separate measurements, not verified active users.
 - Review existing PR comments before creating duplicates. No new PRs or comments were sent.

@@ -38,4 +38,15 @@ class CatalogTests(unittest.TestCase):
             d=self.fixture();d['repositories'][1]['pull_requests']=[pr]
             with self.assertRaises(ValueError):m.validate(d)
 
+    def test_search_total_requires_explicit_exclusions(self):
+        m=self.checker();d=self.fixture()
+        d['pr_search']={'total_count':1,'counts':{'open':0,'closed':1,'merged':0}}
+        with self.assertRaises(ValueError):m.validate(d)
+        d['excluded_pull_requests']=[{'number':1,'state':'closed',
+            'url':'https://github.com/263311487-ux/awesome-claude-code/pull/1',
+            'reason':'Owned fork PR, not a parent repository PR'}]
+        self.assertEqual(m.validate(d),{'total':2,'forks':1})
+        d['pr_search']['counts']['closed']=2
+        with self.assertRaises(ValueError):m.validate(d)
+
 if __name__=='__main__':unittest.main()

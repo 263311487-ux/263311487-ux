@@ -680,6 +680,14 @@
       "last_checked": "2026-10-08"
     }
   ],
+  "excluded_pull_requests": [
+    {
+      "number": 1,
+      "state": "closed",
+      "url": "https://github.com/263311487-ux/awesome-claude-code/pull/1",
+      "reason": "PR opened in the owned fork, not in its upstream parent; included in search total but excluded from parent matches."
+    }
+  ],
   "pr_search": {
     "query": "is:pr author:263311487-ux",
     "total_count": 40,
