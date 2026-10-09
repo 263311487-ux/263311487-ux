@@ -29,7 +29,8 @@ class CatalogTests(unittest.TestCase):
         m=self.checker()
         for kind in ('duplicate','no-parent','unsafe-name','bad-role','unexpected-parent'):
             d=self.fixture()
-            if kind=='duplicate':d['repositories'].append(copy.deepcopy(d['repositories'][0]))
+            if kind=='duplicate':
+                d['repositories'].append(copy.deepcopy(d['repositories'][0]));d['public_count']=3
             elif kind=='no-parent':d['repositories'][1]['upstream']=None
             elif kind=='unsafe-name':d['repositories'][0]['name']='../bad'
             elif kind=='bad-role':d['repositories'][0]['lifecycle']='bogus'
@@ -48,6 +49,14 @@ class CatalogTests(unittest.TestCase):
         m=self.checker();d=self.fixture()
         d['pr_search']={'total_count':1,'counts':{'open':0,'closed':1,'merged':0}}
         with self.assertRaises(ValueError):m.validate(d)
+
+    def test_invalid_schema_and_excluded_identity(self):
+        m=self.checker()
+        d=self.fixture();d['schema_version']=True
+        with self.assertRaises(ValueError):self.checker().validate(d)
+        d=self.fixture();d['pr_search']={'total_count':1,'counts':{'closed':1}}
+        d['excluded_pull_requests']=[{'state':'closed','reason':'x','url':'https://github.com/'}]
+        with self.assertRaises(ValueError):self.checker().validate(d)
         d['excluded_pull_requests']=[{'number':1,'state':'closed',
             'url':'https://github.com/263311487-ux/awesome-claude-code/pull/1',
             'reason':'Owned fork PR, not a parent repository PR'}]

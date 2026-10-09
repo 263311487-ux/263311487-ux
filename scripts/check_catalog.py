@@ -8,7 +8,7 @@ NAME=re.compile(r'^[A-Za-z0-9_.-]+$')
 
 def validate(doc):
     rows=doc.get('repositories',[])
-    if doc.get('schema_version') != 1 or not isinstance(rows,list): raise ValueError('invalid catalog')
+    if type(doc.get('schema_version')) is not int or doc.get('schema_version') != 1 or not isinstance(rows,list): raise ValueError('invalid catalog')
     if type(doc.get('public_count')) is not int or doc['public_count'] != len(rows): raise ValueError('public_count differs from rows')
     names=[]
     for row in rows:
@@ -23,11 +23,15 @@ def validate(doc):
         for pr in row.get('pull_requests',[]):
             if type(pr.get('number')) is not int or pr['number']<1 or pr.get('state') not in STATES: raise ValueError('invalid pull request')
             if role!='fork' or pr.get('url') != f'https://github.com/{parent}/pull/{pr["number"]}': raise ValueError('pull request does not belong to upstream')
+    linked=[p for r in rows for p in r.get('pull_requests',[])]
+    if len({p['url'] for p in linked})!=len(linked): raise ValueError('duplicate pull request')
     if 'pr_search' in doc:
         prs=[p for r in rows for p in r.get('pull_requests',[])]
         excluded=doc.get('excluded_pull_requests',[])
         for p in excluded:
-            if p.get('state') not in STATES or not p.get('reason') or not p.get('url','').startswith('https://github.com/'):
+            if (type(p.get('number')) is not int or p['number'] < 1 or
+                p.get('state') not in STATES or not isinstance(p.get('reason'),str) or not p['reason'] or
+                not re.fullmatch(r'https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+/pull/'+str(p['number']),p.get('url',''))):
                 raise ValueError('invalid excluded pull request')
         all_prs=prs+excluded
         if len({p['url'] for p in all_prs})!=len(all_prs): raise ValueError('duplicate pull request')
