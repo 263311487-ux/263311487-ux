@@ -9,6 +9,7 @@ NAME=re.compile(r'^[A-Za-z0-9_.-]+$')
 def validate(doc):
     rows=doc.get('repositories',[])
     if doc.get('schema_version') != 1 or not isinstance(rows,list): raise ValueError('invalid catalog')
+    if type(doc.get('public_count')) is not int or doc['public_count'] != len(rows): raise ValueError('public_count differs from rows')
     names=[]
     for row in rows:
         name=row.get('name')

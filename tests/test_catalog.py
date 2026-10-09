@@ -12,12 +12,18 @@ class CatalogTests(unittest.TestCase):
         return m
 
     def fixture(self):
-        return {'schema_version':1,'captured_at':'2026-10-08T13:02:55+00:00',
+        return {'schema_version':1,'public_count':2,'captured_at':'2026-10-08T13:02:55+00:00',
                 'repositories':[{'name':'tool','lifecycle':'product','upstream':None,'pull_requests':[]},
                 {'name':'copy','lifecycle':'fork','upstream':'someone/tool','pull_requests':[]}]}
 
     def test_typed_catalog(self):
         self.assertEqual(self.checker().validate(self.fixture()), {'total':2,'forks':1})
+
+    def test_public_count_must_equal_rows(self):
+        m=self.checker()
+        for value in (999,True,None,'2'):
+            d=self.fixture();d['public_count']=value
+            with self.assertRaises(ValueError):m.validate(d)
 
     def test_duplicate_missing_parent_and_unsafe_name(self):
         m=self.checker()
