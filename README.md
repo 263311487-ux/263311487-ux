@@ -25,6 +25,8 @@ Software tests, downloads and fluent self-reports do not establish consciousness
 
 ## Explore / 项目目录
 
+[完整 41 仓库目录与状态](CATALOG.md)（产品 / 研究 / 演示 / fork / 历史；含 PR 检索快照）
+
 - [Complete public repository catalog](CATALOG.md): products, research, demos, historical material, and contribution forks with verified upstream links. / 全部公开仓库及上游贡献记录。
 - [DSH team demo](https://github.com/263311487-ux/dsh-web-team-demo): a small browser interaction example. / 小型网页交互演示。
 - [Historical BaiXun proposal](https://github.com/263311487-ux/-): retained historical text, not the current research publication. / 保留的历史文本。
