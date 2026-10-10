@@ -78,6 +78,12 @@ upstream submission or synchronization. File summaries for the other four
 forks with ahead commits are in `default_branch_comparison.compare_files`;
 check the listed files and fixed SHAs before making a contribution decision.
 
+This directory is a dated navigation and ancestry snapshot, not a security
+audit, complete contribution review, or approval of any fork's code. Its
+checker validates catalog structure and PR bookkeeping; it does not establish
+the safety, authorship or completeness of compared file contents. A truncated
+file list must not be used as grounds to merge, synchronize or delete a fork.
+
 ## Maintenance practice
 
 Search reconciliation: 39 parent-repository matches + [one closed PR in the owned awesome-claude-code fork](https://github.com/263311487-ux/awesome-claude-code/pull/1) = 40 authored PRs. The excluded record is retained in catalog.json with its reason; CI checks both totals and state counts.
