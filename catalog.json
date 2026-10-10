@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "captured_at": "2026-10-08T13:02:55.335638+00:00",
+  "captured_at": "2026-10-10T08:33:53.709820+00:00",
   "public_count": 41,
   "repositories": [
     {
@@ -11,7 +11,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "263311487-ux",
@@ -21,7 +21,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "Awesome-DeepSeek-Harness-Plugins",
@@ -33,12 +33,36 @@
           "number": 25,
           "state": "closed",
           "url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins/pull/25",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/Awesome-DeepSeek-Harness-Plugins",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "1edff1b349d7b48ffe57c1b09dc7365439edd508",
+          "updated_at": "2026-08-17T10:36:13Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "1082ed90ba0d93de19afc0d266cb91766d758aca",
+        "upstream_sha": "6b43562874d8b6005f7a1697f2f881c42d85a55d",
+        "fork_tree": "5296e43b941bcdf8499a2618e9ac82a722123ec1",
+        "upstream_tree": "80bed5d9f2f85c01478a1d62f1ec45adc0249c04",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 75,
+        "merge_base_sha": "1082ed90ba0d93de19afc0d266cb91766d758aca",
+        "compare_url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins/compare/6b43562874d8b6005f7a1697f2f881c42d85a55d...1082ed90ba0d93de19afc0d266cb91766d758aca",
+        "captured_at": "2026-10-10T08:33:11.797011+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "Awesome-Scientific-Skills",
@@ -50,12 +74,36 @@
           "number": 17,
           "state": "open",
           "url": "https://github.com/InternScience/Awesome-Scientific-Skills/pull/17",
-          "title": "Add falsify — scientific thinking & methodology skill"
+          "title": "Add falsify — scientific thinking & methodology skill",
+          "head_repo": "263311487-ux/Awesome-Scientific-Skills",
+          "head_ref": "add-falsify-scientific-thinking",
+          "head_sha": "d4913486d1fbe8b6d23d50a3af14ac30b1c8c266",
+          "updated_at": "2026-08-29T04:06:37Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
+        "upstream_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
+        "fork_tree": "a95a60231a686b4cdff94978e944431e94122d81",
+        "upstream_tree": "a95a60231a686b4cdff94978e944431e94122d81",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "e67760e2081508773a59398f72bf808f3ac3217c",
+        "compare_url": "https://github.com/InternScience/Awesome-Scientific-Skills/compare/e67760e2081508773a59398f72bf808f3ac3217c...e67760e2081508773a59398f72bf808f3ac3217c",
+        "captured_at": "2026-10-10T08:33:29.936529+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "Oh-My-DSH",
@@ -67,12 +115,36 @@
           "number": 15,
           "state": "closed",
           "url": "https://github.com/like-study1/Oh-My-DSH/pull/15",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/Oh-My-DSH",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "f3b63245ed7d26886596a5d9174c5803dc7189df",
+          "updated_at": "2026-08-18T12:06:28Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "2e2bf57bc328d3135447e0fcacaf77747281ceec",
+        "upstream_sha": "d8d74a5f990f19856de393814657ffb430f1ce6f",
+        "fork_tree": "f3ac892b1f970a00ff0c3263e5e5e55490fe8ab2",
+        "upstream_tree": "4c581f37d9774eaad500ecc87d2cb10663ff8009",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 248,
+        "merge_base_sha": "2e2bf57bc328d3135447e0fcacaf77747281ceec",
+        "compare_url": "https://github.com/like-study1/Oh-My-DSH/compare/d8d74a5f990f19856de393814657ffb430f1ce6f...2e2bf57bc328d3135447e0fcacaf77747281ceec",
+        "captured_at": "2026-10-10T08:33:33.016305+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "Xun",
@@ -82,7 +154,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "agentic-awesome-skills",
@@ -94,24 +166,56 @@
           "number": 1287,
           "state": "merged",
           "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1287",
-          "title": "feat: update falsify — add MODE SELECTION gate and Nudge routing (0.8.3)"
+          "title": "feat: update falsify — add MODE SELECTION gate and Nudge routing (0.8.3)",
+          "head_repo": "263311487-ux/agentic-awesome-skills",
+          "head_ref": "update-falsify",
+          "head_sha": "dd85d80828cb0fb0a2ae5c85bc9adb97262dcc20",
+          "updated_at": "2026-08-30T07:25:12Z"
         },
         {
           "number": 1286,
           "state": "closed",
           "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1286",
-          "title": "feat: add falsify — scientific thinking protocol skill"
+          "title": "feat: add falsify — scientific thinking protocol skill",
+          "head_repo": "263311487-ux/agentic-awesome-skills",
+          "head_ref": "add-falsify",
+          "head_sha": "0ef9f5ccfc86b5658fc2502fe2d902e5ab7c5f07",
+          "updated_at": "2026-08-28T12:32:46Z"
         },
         {
           "number": 1266,
           "state": "closed",
           "url": "https://github.com/sickn33/agentic-awesome-skills/pull/1266",
-          "title": "feat: add falsify — scientific thinking protocol skill"
+          "title": "feat: add falsify — scientific thinking protocol skill",
+          "head_repo": "263311487-ux/agentic-awesome-skills",
+          "head_ref": "add-falsify",
+          "head_sha": "0ef9f5ccfc86b5658fc2502fe2d902e5ab7c5f07",
+          "updated_at": "2026-08-28T07:54:53Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "5cf4dfeb13ea966daa1e117897689cd7991e3f44",
+        "upstream_sha": "8367ec3b48a365f87dcfff56e4ce120526c9351e",
+        "fork_tree": "b9d7a511904a2cc5da1784bbae99edab5cb4a0c1",
+        "upstream_tree": "e94b84c0e7941ff08abedfe95df7ec7e8269f262",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 531,
+        "merge_base_sha": "5cf4dfeb13ea966daa1e117897689cd7991e3f44",
+        "compare_url": "https://github.com/sickn33/agentic-awesome-skills/compare/8367ec3b48a365f87dcfff56e4ce120526c9351e...5cf4dfeb13ea966daa1e117897689cd7991e3f44",
+        "captured_at": "2026-10-10T08:32:54.077929+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "ai-comic-drama",
@@ -121,7 +225,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "awesome-agent-skills",
@@ -133,18 +237,46 @@
           "number": 451,
           "state": "open",
           "url": "https://github.com/heilcheng/awesome-agent-skills/pull/451",
-          "title": "Add falsify — scientific thinking protocol skill (Community Skills)"
+          "title": "Add falsify — scientific thinking protocol skill (Community Skills)",
+          "head_repo": "263311487-ux/awesome-agent-skills",
+          "head_ref": "add-falsify",
+          "head_sha": "28848e938b0914c7aa15b7cd96642c102c8b6425",
+          "updated_at": "2026-08-28T12:41:11Z"
         },
         {
           "number": 444,
           "state": "open",
           "url": "https://github.com/heilcheng/awesome-agent-skills/pull/444",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-agent-skills",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "4ffe65bc3db0e48e4c286c55faa718319f8e20c1",
+          "updated_at": "2026-08-26T18:30:37Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "de9056857eb0e96da833469d2ee3ac392058225d",
+        "upstream_sha": "de9056857eb0e96da833469d2ee3ac392058225d",
+        "fork_tree": "8db0190b65fbac424e8d14c7ad37f7a739e3c11f",
+        "upstream_tree": "8db0190b65fbac424e8d14c7ad37f7a739e3c11f",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "de9056857eb0e96da833469d2ee3ac392058225d",
+        "compare_url": "https://github.com/heilcheng/awesome-agent-skills/compare/de9056857eb0e96da833469d2ee3ac392058225d...de9056857eb0e96da833469d2ee3ac392058225d",
+        "captured_at": "2026-10-10T08:32:54.080703+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-agent-skills-1",
@@ -156,12 +288,36 @@
           "number": 136,
           "state": "open",
           "url": "https://github.com/libukai/awesome-agent-skills/pull/136",
-          "title": "Add falsify: scientific thinking protocol skill for AI agents"
+          "title": "Add falsify: scientific thinking protocol skill for AI agents",
+          "head_repo": "263311487-ux/awesome-agent-skills-1",
+          "head_ref": "add-falsify-libukai",
+          "head_sha": "f4b0a9610fdb08b9ec7a8bab8330b9c4891bc425",
+          "updated_at": "2026-09-04T01:45:00Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e",
+        "upstream_sha": "5ccadec8831fc1697c47b31e04e8b037b9ca7f8d",
+        "fork_tree": "6709dcf2305a0633a2b2d4adc5f1a3bd0761af22",
+        "upstream_tree": "6709dcf2305a0633a2b2d4adc5f1a3bd0761af22",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 13,
+        "merge_base_sha": "89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e",
+        "compare_url": "https://github.com/libukai/awesome-agent-skills/compare/5ccadec8831fc1697c47b31e04e8b037b9ca7f8d...89f82b3a96fb3e25a357a24bfd13b16e7fe4bf4e",
+        "captured_at": "2026-10-10T08:32:54.082919+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-agent-skills-2",
@@ -173,12 +329,36 @@
           "number": 88,
           "state": "closed",
           "url": "https://github.com/JackyST0/awesome-agent-skills/pull/88",
-          "title": "Add falsify — scientific thinking protocol skill (Productivity)"
+          "title": "Add falsify — scientific thinking protocol skill (Productivity)",
+          "head_repo": "263311487-ux/awesome-agent-skills-2",
+          "head_ref": "add-falsify",
+          "head_sha": "babd1e4c3823b4cb98331d3e511f4f06512ca5f7",
+          "updated_at": "2026-09-08T10:04:20Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "e5097f79ec74ec0204791a6dc8f45af6f3cb08fc",
+        "upstream_sha": "d0a05fa98b2d8c512570347085a90c84d7b2845b",
+        "fork_tree": "406b76611d29fbf40e265b2bbc32a3a091b543eb",
+        "upstream_tree": "b3ced0f5f2dbdeca555f72c3e50fe46bda7168a6",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 72,
+        "merge_base_sha": "e5097f79ec74ec0204791a6dc8f45af6f3cb08fc",
+        "compare_url": "https://github.com/JackyST0/awesome-agent-skills/compare/d0a05fa98b2d8c512570347085a90c84d7b2845b...e5097f79ec74ec0204791a6dc8f45af6f3cb08fc",
+        "captured_at": "2026-10-10T08:32:57.476771+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-agent-skills-3",
@@ -190,12 +370,36 @@
           "number": 73,
           "state": "open",
           "url": "https://github.com/philipbankier/awesome-agent-skills/pull/73",
-          "title": "feat: add falsify — reasoning & scientific thinking skill"
+          "title": "feat: add falsify — reasoning & scientific thinking skill",
+          "head_repo": "263311487-ux/awesome-agent-skills-3",
+          "head_ref": "add-falsify-reasoning",
+          "head_sha": "7b02ccfc0bf30bd952fc7a5ab0fe248f142e59de",
+          "updated_at": "2026-08-29T04:10:46Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "90732efb05f3ffe793ff08c16e41e1b5d3dd0281",
+        "upstream_sha": "49260ad50f8c2e18bbd18a26577472dbbc9b574c",
+        "fork_tree": "98680de6ebb13bdc9849a1467db29e9393bc217b",
+        "upstream_tree": "a34fdb690fd86f1aadc23c0ee8e0ab1bb22b974d",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 22,
+        "merge_base_sha": "90732efb05f3ffe793ff08c16e41e1b5d3dd0281",
+        "compare_url": "https://github.com/philipbankier/awesome-agent-skills/compare/49260ad50f8c2e18bbd18a26577472dbbc9b574c...90732efb05f3ffe793ff08c16e41e1b5d3dd0281",
+        "captured_at": "2026-10-10T08:32:57.980740+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-agent-skills-volt",
@@ -207,24 +411,56 @@
           "number": 975,
           "state": "closed",
           "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/975",
-          "title": "Add falsify — scientific thinking protocol skill (Productivity and Collaboration)"
+          "title": "Add falsify — scientific thinking protocol skill (Productivity and Collaboration)",
+          "head_repo": "263311487-ux/awesome-agent-skills-volt",
+          "head_ref": "add-falsify",
+          "head_sha": "bad48e0e44bf344024aa4e73807823e9e8c202b7",
+          "updated_at": "2026-09-05T07:44:41Z"
         },
         {
           "number": 970,
           "state": "closed",
           "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/970",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-agent-skills-volt",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "cc2355ad32c3cab95db74b1540a3f894835f269c",
+          "updated_at": "2026-08-29T03:55:48Z"
         },
         {
           "number": 969,
           "state": "closed",
           "url": "https://github.com/VoltAgent/awesome-agent-skills/pull/969",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-agent-skills-volt",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "344c64beb42947fad811db65a76504815dae8d9d",
+          "updated_at": "2026-08-26T18:28:57Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "c53287e66a722857c2dcc8a68eec42149adb61a4",
+        "upstream_sha": "8e70c976525abe568c6d6698f555bf57218aac80",
+        "fork_tree": "24478b2df91ebfec7b474233092a683bad5f6ccf",
+        "upstream_tree": "00baca2e7a6a9231e2c2159b6aa5391bc3e39604",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 164,
+        "merge_base_sha": "c53287e66a722857c2dcc8a68eec42149adb61a4",
+        "compare_url": "https://github.com/VoltAgent/awesome-agent-skills/compare/8e70c976525abe568c6d6698f555bf57218aac80...c53287e66a722857c2dcc8a68eec42149adb61a4",
+        "captured_at": "2026-10-10T08:32:58.301185+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-claude-code",
@@ -234,7 +470,27 @@
       "pull_requests": [],
       "contribution_status": "no_matching_pr_in_search",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "80b3e0b0f0bef0e5a8e41767778dd3d0c9a5519b",
+        "upstream_sha": "bc386a65df1d42268761cd392f309ff578f6b25b",
+        "fork_tree": "5789f4136761806dd2efe33ee060925b3258f78a",
+        "upstream_tree": "b2b896ef21734a922b92e16d340714502525db6e",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 408,
+        "merge_base_sha": "80b3e0b0f0bef0e5a8e41767778dd3d0c9a5519b",
+        "compare_url": "https://github.com/hesreallyhim/awesome-claude-code/compare/bc386a65df1d42268761cd392f309ff578f6b25b...80b3e0b0f0bef0e5a8e41767778dd3d0c9a5519b",
+        "captured_at": "2026-10-10T08:33:00.670379+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-claude-skills",
@@ -246,12 +502,36 @@
           "number": 1176,
           "state": "open",
           "url": "https://github.com/travisvn/awesome-claude-skills/pull/1176",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-claude-skills",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "302aa4d81a43cc2ace9d2af2033426d2eddee545",
+          "updated_at": "2026-08-26T18:35:21Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "1da55aa810f206d3fe2005e7e3989b15a275d942",
+        "upstream_sha": "1da55aa810f206d3fe2005e7e3989b15a275d942",
+        "fork_tree": "f4915e172b9c99ed4dc252bad71ae0711fe083e2",
+        "upstream_tree": "f4915e172b9c99ed4dc252bad71ae0711fe083e2",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "1da55aa810f206d3fe2005e7e3989b15a275d942",
+        "compare_url": "https://github.com/travisvn/awesome-claude-skills/compare/1da55aa810f206d3fe2005e7e3989b15a275d942...1da55aa810f206d3fe2005e7e3989b15a275d942",
+        "captured_at": "2026-10-10T08:33:01.620611+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-claude-skills-1",
@@ -263,12 +543,36 @@
           "number": 632,
           "state": "open",
           "url": "https://github.com/BehiSecc/awesome-claude-skills/pull/632",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-claude-skills-1",
+          "head_ref": "add-falsify",
+          "head_sha": "0b9721ade686e43ee2170e1fca0e3e90f7a139a0",
+          "updated_at": "2026-08-26T20:33:55Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "e3d2916d0c4f26ab450006ff2ee759d9770eed1c",
+        "upstream_sha": "c368a0ae3c61e226af761fe975cf869c0f3a087d",
+        "fork_tree": "cb1ea6748fcc33f65a8adf57689085430657a941",
+        "upstream_tree": "7f793d65422f0cf2a0f58ab6e651f87c2e785781",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 3,
+        "merge_base_sha": "e3d2916d0c4f26ab450006ff2ee759d9770eed1c",
+        "compare_url": "https://github.com/BehiSecc/awesome-claude-skills/compare/c368a0ae3c61e226af761fe975cf869c0f3a087d...e3d2916d0c4f26ab450006ff2ee759d9770eed1c",
+        "captured_at": "2026-10-10T08:33:04.270560+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-claude-skills-composio",
@@ -280,12 +584,36 @@
           "number": 1738,
           "state": "open",
           "url": "https://github.com/ComposioHQ/awesome-claude-skills/pull/1738",
-          "title": "Add falsify: scientific thinking protocol skill for AI agents"
+          "title": "Add falsify: scientific thinking protocol skill for AI agents",
+          "head_repo": "263311487-ux/awesome-claude-skills-composio",
+          "head_ref": "add-falsify",
+          "head_sha": "7174249955a0b91fdea34e697c4d9dd5c7fbfd6e",
+          "updated_at": "2026-08-26T18:37:49Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
+        "upstream_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
+        "fork_tree": "070545c75ce600c2f6e66ee84e78124887accc6f",
+        "upstream_tree": "070545c75ce600c2f6e66ee84e78124887accc6f",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "be2a406907dbc61b73e6827ded415c96139d13a2",
+        "compare_url": "https://github.com/ComposioHQ/awesome-claude-skills/compare/be2a406907dbc61b73e6827ded415c96139d13a2...be2a406907dbc61b73e6827ded415c96139d13a2",
+        "captured_at": "2026-10-10T08:33:04.546335+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-codex-skills",
@@ -297,12 +625,36 @@
           "number": 257,
           "state": "open",
           "url": "https://github.com/composio-community/awesome-codex-skills/pull/257",
-          "title": "Add falsify — scientific thinking protocol skill (Meta & Utilities)"
+          "title": "Add falsify — scientific thinking protocol skill (Meta & Utilities)",
+          "head_repo": "263311487-ux/awesome-codex-skills",
+          "head_ref": "add-falsify",
+          "head_sha": "230bac828adeeb3d5f232c7454f92d88b2139ddf",
+          "updated_at": "2026-08-28T12:27:00Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "0930e1373789d2eda449039f7ac154b33031de89",
+        "upstream_sha": "0930e1373789d2eda449039f7ac154b33031de89",
+        "fork_tree": "66d91e6c08eb9e01f0f8246e477a8abef41d14fd",
+        "upstream_tree": "66d91e6c08eb9e01f0f8246e477a8abef41d14fd",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "0930e1373789d2eda449039f7ac154b33031de89",
+        "compare_url": "https://github.com/composio-community/awesome-codex-skills/compare/0930e1373789d2eda449039f7ac154b33031de89...0930e1373789d2eda449039f7ac154b33031de89",
+        "captured_at": "2026-10-10T08:33:07.201680+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-copilot",
@@ -314,12 +666,36 @@
           "number": 2816,
           "state": "closed",
           "url": "https://github.com/github/awesome-copilot/pull/2816",
-          "title": "Add falsify: scientific thinking protocol skill 🤖🤖🤖"
+          "title": "Add falsify: scientific thinking protocol skill 🤖🤖🤖",
+          "head_repo": "263311487-ux/awesome-copilot",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "135e1117671455e6f42cdf7ad9d946759da817c2",
+          "updated_at": "2026-08-28T00:47:03Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "71f7c9b1dc5044287b62fc700efc034da4065f87",
+        "upstream_sha": "82701c24b99488536ca399ff4789a458b7a05db7",
+        "fork_tree": "6df8f55e9e5c15d24f496eb06c582b7070022935",
+        "upstream_tree": "80bd60b46ae45f29e52571f535928b08ed0ebbb3",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 178,
+        "merge_base_sha": "71f7c9b1dc5044287b62fc700efc034da4065f87",
+        "compare_url": "https://github.com/github/awesome-copilot/compare/82701c24b99488536ca399ff4789a458b7a05db7...71f7c9b1dc5044287b62fc700efc034da4065f87",
+        "captured_at": "2026-10-10T08:33:07.975606+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-deepseek-harness",
@@ -331,12 +707,36 @@
           "number": 412,
           "state": "merged",
           "url": "https://github.com/0xsline/awesome-deepseek-harness/pull/412",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-deepseek-harness",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "4f6eb9418816c5f9566939af4b9ea5cdfd533e84",
+          "updated_at": "2026-08-19T21:26:23Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "e689b4805fa825800b7af8645b62949e72caf74e",
+        "upstream_sha": "9f7826c98f7c41cbd054b27c2847cb69ca1be143",
+        "fork_tree": "6631580cc597823f7edf2a2bf558da7e272ffa6f",
+        "upstream_tree": "6e813046eedac8702bc72dfa5e8e3fdcdaf48c0f",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 708,
+        "merge_base_sha": "e689b4805fa825800b7af8645b62949e72caf74e",
+        "compare_url": "https://github.com/0xsline/awesome-deepseek-harness/compare/9f7826c98f7c41cbd054b27c2847cb69ca1be143...e689b4805fa825800b7af8645b62949e72caf74e",
+        "captured_at": "2026-10-10T08:33:10.338402+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-deepseek-integration",
@@ -348,12 +748,36 @@
           "number": 726,
           "state": "open",
           "url": "https://github.com/deepseek-ai/awesome-deepseek-integration/pull/726",
-          "title": "Add falsify: scientific thinking protocol skill (DeepSeek Harness compatible)"
+          "title": "Add falsify: scientific thinking protocol skill (DeepSeek Harness compatible)",
+          "head_repo": "263311487-ux/awesome-deepseek-integration",
+          "head_ref": "add-falsify",
+          "head_sha": "de6c843772e5813fcf897d7d1faa64d589b9f81e",
+          "updated_at": "2026-08-26T20:26:02Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
+        "upstream_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
+        "fork_tree": "d029520074e581edbed8cbb052693b29026ffe4d",
+        "upstream_tree": "d029520074e581edbed8cbb052693b29026ffe4d",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "94a834802fd1489db4ced41f3a23c669cb8644b1",
+        "compare_url": "https://github.com/deepseek-ai/awesome-deepseek-integration/compare/94a834802fd1489db4ced41f3a23c669cb8644b1...94a834802fd1489db4ced41f3a23c669cb8644b1",
+        "captured_at": "2026-10-10T08:33:13.477820+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-dsh-plugin",
@@ -365,18 +789,46 @@
           "number": 3596,
           "state": "open",
           "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/3596",
-          "title": "Add falsify — scientific thinking protocol skill (Skills)"
+          "title": "Add falsify — scientific thinking protocol skill (Skills)",
+          "head_repo": "263311487-ux/awesome-dsh-plugin",
+          "head_ref": "add-falsify",
+          "head_sha": "ae1dcf86b00d74150ddd49311dd437e356216a8e",
+          "updated_at": "2026-09-03T07:36:08Z"
         },
         {
           "number": 1402,
           "state": "merged",
           "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/1402",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-plugin",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "798f62031aed40bf347156f72498a0ef79414217",
+          "updated_at": "2026-08-26T06:00:42Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "f308f03872682dfd02955081d32b71739d6a2672",
+        "upstream_sha": "2a2173f8aa4038ed9204cfd8cb395f49cbec44e2",
+        "fork_tree": "7fbadd0e1a644beefc24a5dde71cf483134449fb",
+        "upstream_tree": "2bef34733537f89193e30ccb9fb5a3a5235c524e",
+        "tree_equal": false,
+        "ahead_by": 1176,
+        "behind_by": 7513,
+        "merge_base_sha": "0d3b23caae637d255c583f398ce5e6dfe496f089",
+        "compare_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/compare/2a2173f8aa4038ed9204cfd8cb395f49cbec44e2...f308f03872682dfd02955081d32b71739d6a2672",
+        "captured_at": "2026-10-10T08:33:14.138561+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 300,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": false,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "diverged"
     },
     {
       "name": "awesome-dsh-plugin-1",
@@ -388,12 +840,36 @@
           "number": 40,
           "state": "merged",
           "url": "https://github.com/Anil-matcha/awesome-vibecoded-saas/pull/40",
-          "title": "Add dsh-verify — browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-plugin-1",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "89e23189dac6d8dfd425c4934879311485d8682f",
+          "updated_at": "2026-08-20T04:27:06Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "fa6346320c42ec3459f5233b3f75606f08b72462",
+        "upstream_sha": "a619af1f0ca938ef78b9fbf7558a45f6c5b31aea",
+        "fork_tree": "741d002aeaaf4d6f5975bba9a12bb16235c7605b",
+        "upstream_tree": "de8f91bd0580f8034a15daf00365845b69bf2f9e",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 113,
+        "merge_base_sha": "fa6346320c42ec3459f5233b3f75606f08b72462",
+        "compare_url": "https://github.com/Anil-matcha/awesome-vibecoded-saas/compare/a619af1f0ca938ef78b9fbf7558a45f6c5b31aea...fa6346320c42ec3459f5233b3f75606f08b72462",
+        "captured_at": "2026-10-10T08:33:15.361435+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-dsh-plugin-bc",
@@ -405,12 +881,36 @@
           "number": 59,
           "state": "merged",
           "url": "https://github.com/beancookie/awesome-dsh-plugin/pull/59",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-plugin-bc",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "3aa07fa8c3fad5101b543a3032e18fe1f60df6e9",
+          "updated_at": "2026-08-17T12:51:36Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "efe7c1a6a550bdd400a8e7c918eec31b00a99daa",
+        "upstream_sha": "a1a6264fd514405c2714309e5780b5f450f10908",
+        "fork_tree": "b28795bb62452205cefdf4ae64b376be9150e9f4",
+        "upstream_tree": "f50f05f0635a12fd9e97c548075d1c926ea29390",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 510,
+        "merge_base_sha": "efe7c1a6a550bdd400a8e7c918eec31b00a99daa",
+        "compare_url": "https://github.com/beancookie/awesome-dsh-plugin/compare/a1a6264fd514405c2714309e5780b5f450f10908...efe7c1a6a550bdd400a8e7c918eec31b00a99daa",
+        "captured_at": "2026-10-10T08:33:16.647853+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-dsh-plugins",
@@ -422,12 +922,36 @@
           "number": 9,
           "state": "closed",
           "url": "https://github.com/cccakeee/awesome-dsh-plugins/pull/9",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-plugins",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "7decfd18d343e1fd51fd449a2979c1c714ea8b0b",
+          "updated_at": "2026-08-26T16:37:59Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "01e3858b1ffd36b05f3abe2a5399a4b5d302af9c",
+        "upstream_sha": "cb95fe1be2b15531e1a62d4313d446c2b755d2bc",
+        "fork_tree": "e569a47c73e2ea750acaeca1101ec5c2d1fa3633",
+        "upstream_tree": "4f1922472e6193a17a626a7d55b2d5e6693933aa",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 61,
+        "merge_base_sha": "01e3858b1ffd36b05f3abe2a5399a4b5d302af9c",
+        "compare_url": "https://github.com/cccakeee/awesome-dsh-plugins/compare/cb95fe1be2b15531e1a62d4313d446c2b755d2bc...01e3858b1ffd36b05f3abe2a5399a4b5d302af9c",
+        "captured_at": "2026-10-10T08:33:18.742803+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-dsh-plugins-1",
@@ -439,12 +963,36 @@
           "number": 311,
           "state": "closed",
           "url": "https://github.com/AdamPlatin123/dsh-plugin-radar/pull/311",
-          "title": "Add dsh-verify: real-browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify: real-browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-plugins-1",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "8bd8218450f5f5203264ae5634871a7ee3b847ec",
+          "updated_at": "2026-08-26T22:26:09Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "ce8f7bfd4c9e36593f7ef893476f5c25f460b416",
+        "upstream_sha": "20a6aa9beae3d1db04160f9f2a6f75f1913ccb9a",
+        "fork_tree": "73fa8dda81355c6ea41b218461991d9905eb5ea7",
+        "upstream_tree": "32c0c81d284519bea4c0573b8080f563cab68f68",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 2342,
+        "merge_base_sha": "ce8f7bfd4c9e36593f7ef893476f5c25f460b416",
+        "compare_url": "https://github.com/AdamPlatin123/dsh-plugin-radar/compare/20a6aa9beae3d1db04160f9f2a6f75f1913ccb9a...ce8f7bfd4c9e36593f7ef893476f5c25f460b416",
+        "captured_at": "2026-10-10T08:33:20.190233+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-dsh-walkinglabs",
@@ -456,12 +1004,36 @@
           "number": 18,
           "state": "merged",
           "url": "https://github.com/walkinglabs/awesome-deepseek-harness-plugins/pull/18",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-walkinglabs",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "0964472aae1eeda9c4fb9de5b64c19aafbf345df",
+          "updated_at": "2026-08-27T01:03:26Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "302cc52503e89615768b8fc841212e09e6fade86",
+        "upstream_sha": "478406089eec96b6108a1df13076cfe979ba3dc3",
+        "fork_tree": "3e1d1d6fbc783b6a83282e33ea28256914aaedde",
+        "upstream_tree": "1c4b172643a57726d056d96ede2fd271d7f7e703",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 68,
+        "merge_base_sha": "302cc52503e89615768b8fc841212e09e6fade86",
+        "compare_url": "https://github.com/walkinglabs/awesome-deepseek-harness-plugins/compare/478406089eec96b6108a1df13076cfe979ba3dc3...302cc52503e89615768b8fc841212e09e6fade86",
+        "captured_at": "2026-10-10T08:33:20.462508+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-dsh-yanggg",
@@ -473,12 +1045,36 @@
           "number": 75,
           "state": "open",
           "url": "https://github.com/Alex-Yanggg/awesome-DSH-plugin/pull/75",
-          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables"
+          "title": "Add dsh-verify — independent browser acceptance testing for agent deliverables",
+          "head_repo": "263311487-ux/awesome-dsh-yanggg",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "eceacd4da46932e352a15197c66794ded5687f34",
+          "updated_at": "2026-08-17T10:46:14Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "3b44fe8ffddbf19ccebd459829e5a8ae2cbb0fa6",
+        "upstream_sha": "3b44fe8ffddbf19ccebd459829e5a8ae2cbb0fa6",
+        "fork_tree": "8f2627e56ca02205b1f5988a860ddc0dd47f9909",
+        "upstream_tree": "8f2627e56ca02205b1f5988a860ddc0dd47f9909",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "3b44fe8ffddbf19ccebd459829e5a8ae2cbb0fa6",
+        "compare_url": "https://github.com/Alex-Yanggg/awesome-DSH-plugin/compare/3b44fe8ffddbf19ccebd459829e5a8ae2cbb0fa6...3b44fe8ffddbf19ccebd459829e5a8ae2cbb0fa6",
+        "captured_at": "2026-10-10T08:33:22.400701+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-llm-apps",
@@ -490,12 +1086,36 @@
           "number": 1124,
           "state": "closed",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1124",
-          "title": "Add falsify — scientific thinking protocol skill (external entry)"
+          "title": "Add falsify — scientific thinking protocol skill (external entry)",
+          "head_repo": "263311487-ux/awesome-llm-apps",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "78cc7ebfdbfac8ebc5658d6b716c0907f56fa9dc",
+          "updated_at": "2026-08-30T05:16:03Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "11a4bc330e4b0b1509577db4581c5cfbcf6ea6a0",
+        "upstream_sha": "4bf51ab704fb2c5b3803cd5191b30d7dcdb51dc2",
+        "fork_tree": "b5c4afd68e907d6f640c9a363c6a48a8ef833378",
+        "upstream_tree": "6569cf342b13154a7b071a0855ed8aed3b4c6f0a",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 93,
+        "merge_base_sha": "11a4bc330e4b0b1509577db4581c5cfbcf6ea6a0",
+        "compare_url": "https://github.com/Shubhamsaboo/awesome-llm-apps/compare/4bf51ab704fb2c5b3803cd5191b30d7dcdb51dc2...11a4bc330e4b0b1509577db4581c5cfbcf6ea6a0",
+        "captured_at": "2026-10-10T08:33:23.581576+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-llm-skills",
@@ -507,12 +1127,36 @@
           "number": 227,
           "state": "open",
           "url": "https://github.com/Prat011/awesome-llm-skills/pull/227",
-          "title": "Add falsify: scientific thinking protocol skill"
+          "title": "Add falsify: scientific thinking protocol skill",
+          "head_repo": "263311487-ux/awesome-llm-skills",
+          "head_ref": "add-falsify-skill",
+          "head_sha": "0cda2805c246435a38e309a62e437dac62fcb848",
+          "updated_at": "2026-08-26T20:20:30Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
+        "upstream_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
+        "fork_tree": "023d8938a7895fd5ea62b0208bb516b09251e615",
+        "upstream_tree": "023d8938a7895fd5ea62b0208bb516b09251e615",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
+        "compare_url": "https://github.com/Prat011/awesome-llm-skills/compare/35e1ea23b6c5f50c420d5591973aa8ad4f2931ff...35e1ea23b6c5f50c420d5591973aa8ad4f2931ff",
+        "captured_at": "2026-10-10T08:33:23.621673+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     },
     {
       "name": "awesome-markdown",
@@ -524,12 +1168,41 @@
           "number": 140,
           "state": "open",
           "url": "https://github.com/mundimark/awesome-markdown/pull/140",
-          "title": "Add Imprint: AI-native Markdown to PDF with automated 0-100 quality report"
+          "title": "Add Imprint: AI-native Markdown to PDF with automated 0-100 quality report",
+          "head_repo": "263311487-ux/awesome-markdown",
+          "head_ref": "master",
+          "head_sha": "4a9bb9be0a2d56a6539d6e547a5118644604f6de",
+          "updated_at": "2026-08-25T04:03:05Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "4a9bb9be0a2d56a6539d6e547a5118644604f6de",
+        "upstream_sha": "a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac",
+        "fork_tree": "db24c24c571755237635427335200e90acb735ed",
+        "upstream_tree": "d27d6c8613572644ca856422991c68ce3c418121",
+        "tree_equal": false,
+        "ahead_by": 3,
+        "behind_by": 1,
+        "merge_base_sha": "a0a6bb5bf87502cece740f7cc16855745701a71c",
+        "compare_url": "https://github.com/mundimark/awesome-markdown/compare/a33cd19ba2c5ca218c9132a11753d7e9bfc5ceac...4a9bb9be0a2d56a6539d6e547a5118644604f6de",
+        "captured_at": "2026-10-10T08:33:25.374556+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 1,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": [
+          {
+            "path": "README.md",
+            "status": "modified"
+          }
+        ]
+      },
+      "remote_default_branch_status": "diverged"
     },
     {
       "name": "awesome-mcp-servers",
@@ -541,18 +1214,46 @@
           "number": 12495,
           "state": "open",
           "url": "https://github.com/punkpeye/awesome-mcp-servers/pull/12495",
-          "title": "Add imprint-pdf MCP server to File Systems 🤖🤖🤖"
+          "title": "Add imprint-pdf MCP server to File Systems 🤖🤖🤖",
+          "head_repo": "263311487-ux/awesome-mcp-servers",
+          "head_ref": "add-imprint-pdf",
+          "head_sha": "9b73e574dc446f5cf04171660bc87be368e2614c",
+          "updated_at": "2026-10-09T19:30:10Z"
         },
         {
           "number": 12303,
           "state": "open",
           "url": "https://github.com/punkpeye/awesome-mcp-servers/pull/12303",
-          "title": "Add dsh-verify MCP server (browser acceptance testing for agent deliverables) 🤖🤖🤖"
+          "title": "Add dsh-verify MCP server (browser acceptance testing for agent deliverables) 🤖🤖🤖",
+          "head_repo": "263311487-ux/awesome-mcp-servers",
+          "head_ref": "add-dsh-verify",
+          "head_sha": "401fbf418711a5d2566c8b5710fe1dab100a0b5a",
+          "updated_at": "2026-09-13T07:11:40Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "cbcdf8f7700cfe4c0ef9aeb232f64aeebe8a184c",
+        "upstream_sha": "cc7f1f42c3fa8ced6fd5c0e02ea366ef7ed8cf1b",
+        "fork_tree": "a5de79f131039c50a6d38ec68334828b7a8abcf7",
+        "upstream_tree": "88f588c3f1c8610a9b95d6321da809375d68e1fd",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 3087,
+        "merge_base_sha": "cbcdf8f7700cfe4c0ef9aeb232f64aeebe8a184c",
+        "compare_url": "https://github.com/punkpeye/awesome-mcp-servers/compare/cc7f1f42c3fa8ced6fd5c0e02ea366ef7ed8cf1b...cbcdf8f7700cfe4c0ef9aeb232f64aeebe8a184c",
+        "captured_at": "2026-10-10T08:33:26.629010+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "awesome-pdf",
@@ -564,12 +1265,41 @@
           "number": 51,
           "state": "open",
           "url": "https://github.com/py-pdf/awesome-pdf/pull/51",
-          "title": "Add imprint-pdf to Generators — AI-native, print-grade Markdown→PDF"
+          "title": "Add imprint-pdf to Generators — AI-native, print-grade Markdown→PDF",
+          "head_repo": "263311487-ux/awesome-pdf",
+          "head_ref": "main",
+          "head_sha": "9b5d6a0751938d99cd4c0c0122d6e25d0555385b",
+          "updated_at": "2026-08-25T04:02:15Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "9b5d6a0751938d99cd4c0c0122d6e25d0555385b",
+        "upstream_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
+        "fork_tree": "9ab5060d53f1810e091fbcb48672f7b03f2e5161",
+        "upstream_tree": "7086aba644e92df64560a16f9067ceb9bbc09d75",
+        "tree_equal": false,
+        "ahead_by": 1,
+        "behind_by": 0,
+        "merge_base_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
+        "compare_url": "https://github.com/py-pdf/awesome-pdf/compare/9f015f869e7e10a3d6e087837274ec0609b2978e...9b5d6a0751938d99cd4c0c0122d6e25d0555385b",
+        "captured_at": "2026-10-10T08:33:26.851831+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 1,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": [
+          {
+            "path": "README.md",
+            "status": "modified"
+          }
+        ]
+      },
+      "remote_default_branch_status": "ahead"
     },
     {
       "name": "awesome-regression-testing",
@@ -581,12 +1311,41 @@
           "number": 114,
           "state": "open",
           "url": "https://github.com/mojoaxel/awesome-regression-testing/pull/114",
-          "title": "Add dsh-verify — real-browser acceptance checks with screenshot receipts"
+          "title": "Add dsh-verify — real-browser acceptance checks with screenshot receipts",
+          "head_repo": "263311487-ux/awesome-regression-testing",
+          "head_ref": "master",
+          "head_sha": "5000282c7a6e8236beca46e258f1d0990bec211a",
+          "updated_at": "2026-08-25T03:59:23Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "5000282c7a6e8236beca46e258f1d0990bec211a",
+        "upstream_sha": "851e8b97f4f8bd7b26bbbf25014a25c50a4c74b7",
+        "fork_tree": "234a1ceee1807f5d9e76790e2bdb96cf6e6d389c",
+        "upstream_tree": "8b88cd1bcb68feef10e70a34fdb566bfc01a6fb8",
+        "tree_equal": false,
+        "ahead_by": 1,
+        "behind_by": 1,
+        "merge_base_sha": "38f8fcde521b4438fb2fbcaa8d8143d64a2cf404",
+        "compare_url": "https://github.com/mojoaxel/awesome-regression-testing/compare/851e8b97f4f8bd7b26bbbf25014a25c50a4c74b7...5000282c7a6e8236beca46e258f1d0990bec211a",
+        "captured_at": "2026-10-10T08:33:28.632210+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 1,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": [
+          {
+            "path": "README.md",
+            "status": "modified"
+          }
+        ]
+      },
+      "remote_default_branch_status": "diverged"
     },
     {
       "name": "awesome-testing",
@@ -598,12 +1357,41 @@
           "number": 212,
           "state": "closed",
           "url": "https://github.com/TheJambo/awesome-testing/pull/212",
-          "title": "Add dsh-verify — the quality gate for agent-built web apps (real-browser acceptance checks)"
+          "title": "Add dsh-verify — the quality gate for agent-built web apps (real-browser acceptance checks)",
+          "head_repo": "263311487-ux/awesome-testing",
+          "head_ref": "master",
+          "head_sha": "485decb44deeabde38a3aa924886d663633bd419",
+          "updated_at": "2026-08-25T19:21:27Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "master",
+        "upstream_branch": "master",
+        "fork_sha": "485decb44deeabde38a3aa924886d663633bd419",
+        "upstream_sha": "d7c1fb73307ac28819e3d75870564743226c0ba8",
+        "fork_tree": "366f9c5db14375e8cb8fdc157d3f34ca9a578445",
+        "upstream_tree": "ad17db451b66d7fd83d7f2ae1c6375368a7978a8",
+        "tree_equal": false,
+        "ahead_by": 1,
+        "behind_by": 46,
+        "merge_base_sha": "d6486c957e5bc4a6c87e952d55030d5cb211ab0a",
+        "compare_url": "https://github.com/TheJambo/awesome-testing/compare/d7c1fb73307ac28819e3d75870564743226c0ba8...485decb44deeabde38a3aa924886d663633bd419",
+        "captured_at": "2026-10-10T08:33:29.959341+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 1,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": [
+          {
+            "path": "README.md",
+            "status": "modified"
+          }
+        ]
+      },
+      "remote_default_branch_status": "diverged"
     },
     {
       "name": "deepseek-plugin-store",
@@ -615,12 +1403,36 @@
           "number": 126,
           "state": "closed",
           "url": "https://github.com/Ericwong5021/deepseek-plugin-store/pull/126",
-          "title": "Add dsh-verify (Witness) to editor picks - real-browser acceptance testing"
+          "title": "Add dsh-verify (Witness) to editor picks - real-browser acceptance testing",
+          "head_repo": "263311487-ux/deepseek-plugin-store",
+          "head_ref": "add-dsh-verify-pick",
+          "head_sha": "7f41ee16d51fe760bf1d3dc07e65590b659860b7",
+          "updated_at": "2026-09-03T09:28:31Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "0702137dd3e88b6b34d848f3050eec8521b3688a",
+        "upstream_sha": "b1d0b4d0bc230a3726483aa6ae6e0566cee2ff36",
+        "fork_tree": "90d8e9f8ca3aa3f1179885796b26367a0057e6ba",
+        "upstream_tree": "fa8d969a948de7abc824c5d91024d5df82b49d7d",
+        "tree_equal": false,
+        "ahead_by": 0,
+        "behind_by": 70,
+        "merge_base_sha": "0702137dd3e88b6b34d848f3050eec8521b3688a",
+        "compare_url": "https://github.com/Ericwong5021/deepseek-plugin-store/compare/b1d0b4d0bc230a3726483aa6ae6e0566cee2ff36...0702137dd3e88b6b34d848f3050eec8521b3688a",
+        "captured_at": "2026-10-10T08:33:31.848640+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "behind"
     },
     {
       "name": "dsh-verify",
@@ -630,7 +1442,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "dsh-web-team-demo",
@@ -640,7 +1452,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "falsify",
@@ -650,7 +1462,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "imprint-pdf",
@@ -660,7 +1472,7 @@
       "pull_requests": [],
       "contribution_status": "not_applicable",
       "local_divergence": "not_applicable",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10"
     },
     {
       "name": "skills",
@@ -672,12 +1484,36 @@
           "number": 10,
           "state": "open",
           "url": "https://github.com/theskillsdirectory/skills/pull/10",
-          "title": "Add falsify skill — scientific thinking protocol for AI agents"
+          "title": "Add falsify skill — scientific thinking protocol for AI agents",
+          "head_repo": "263311487-ux/skills",
+          "head_ref": "add-falsify",
+          "head_sha": "403800e10fcfc460423d77837053f9dcd0fe3fd4",
+          "updated_at": "2026-08-29T03:59:05Z"
         }
       ],
       "contribution_status": "matched_author_prs",
       "local_divergence": "not_checked",
-      "last_checked": "2026-10-08"
+      "last_checked": "2026-10-10",
+      "default_branch_comparison": {
+        "fork_branch": "main",
+        "upstream_branch": "main",
+        "fork_sha": "641eb03da3a5758f568da11433c688c493c1eb34",
+        "upstream_sha": "641eb03da3a5758f568da11433c688c493c1eb34",
+        "fork_tree": "6d4893ae0eb6e474c4579bccd0b1ec9ff18d448e",
+        "upstream_tree": "6d4893ae0eb6e474c4579bccd0b1ec9ff18d448e",
+        "tree_equal": true,
+        "ahead_by": 0,
+        "behind_by": 0,
+        "merge_base_sha": "641eb03da3a5758f568da11433c688c493c1eb34",
+        "compare_url": "https://github.com/theskillsdirectory/skills/compare/641eb03da3a5758f568da11433c688c493c1eb34...641eb03da3a5758f568da11433c688c493c1eb34",
+        "captured_at": "2026-10-10T08:33:33.413085+00:00",
+        "scope": "remote default branches only; PR feature branches may differ",
+        "compare_file_count_returned": 0,
+        "compare_file_limit": 300,
+        "compare_file_list_complete": true,
+        "compare_files": []
+      },
+      "remote_default_branch_status": "identical"
     }
   ],
   "excluded_pull_requests": [
@@ -692,7 +1528,7 @@
     "query": "is:pr author:263311487-ux",
     "total_count": 40,
     "incomplete_results": false,
-    "retrieved_on": "2026-10-08",
+    "retrieved_on": "2026-10-10",
     "counts": {
       "open": 19,
       "closed": 15,
