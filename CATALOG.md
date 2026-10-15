@@ -11,7 +11,7 @@ These are declared portfolio roles, not assurances of support, adoption or produ
 | [-](https://github.com/263311487-ux/-) | historical | Historical BaiXun proposal retained for provenance. |
 | [263311487-ux](https://github.com/263311487-ux/263311487-ux) | profile | Public index and portfolio catalog. |
 | [Xun](https://github.com/263311487-ux/Xun) | research | Theory/methods preprint; empirical validation remains pending. |
-| [ai-comic-drama](https://github.com/263311487-ux/ai-comic-drama) | product | Offline manifest and delivery rehearsals; paid generation is explicit opt-in. |
+| [Yuanjing Storyforge](https://github.com/263311487-ux/yuanjing-storyforge) (formerly `ai-comic-drama`) | product | Offline manifest and delivery rehearsals; paid generation is explicit opt-in. |
 | [dsh-verify](https://github.com/263311487-ux/dsh-verify) | product | Browser assertions and reports; start with the no-key fixture. |
 | [dsh-web-team-demo](https://github.com/263311487-ux/dsh-web-team-demo) | demo | Browser interaction demonstration. |
 | [falsify](https://github.com/263311487-ux/falsify) | product | Thinking guidance and heuristic CLI; inspect historical evaluation limitations. |

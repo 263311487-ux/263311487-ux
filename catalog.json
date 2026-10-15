@@ -218,7 +218,8 @@
       "remote_default_branch_status": "behind"
     },
     {
-      "name": "ai-comic-drama",
+      "name": "yuanjing-storyforge",
+      "previous_name": "ai-comic-drama",
       "lifecycle": "product",
       "upstream": null,
       "priority": "P0",
