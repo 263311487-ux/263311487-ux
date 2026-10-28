@@ -33,9 +33,16 @@ Software tests validate software behavior only. Fluent self-reports do not estab
 
 ---
 
-## All 42 repositories
+## Curated directories
 
-[Full catalog](CATALOG.md) — products, research, forks, demos, and historical material with upstream links and PR records.
+| Repository | What it curates |
+|---|---|
+| [awesome-dsh-plugin](https://github.com/263311487-ux/awesome-dsh-plugin) | DSH plugin directory — 1176+ original entries with evidence-led ratings |
+| [awesome-dsh-plugins-1](https://github.com/263311487-ux/awesome-dsh-plugins-1) | DSH plugin radar — 9000+ candidates, k8s-level real install tests, 50 curated picks |
+| [Oh-My-DSH](https://github.com/263311487-ux/Oh-My-DSH) | DSH plugin aggregation hub — 4-hour auto-sync, 1556 curated plugins, GitHub Pages search |
+| [agentic-awesome-skills](https://github.com/263311487-ux/agentic-awesome-skills) | AAS Core — local agent-first control plane for 2074+ skills with CLI search |
+| [deepseek-plugin-store](https://github.com/263311487-ux/deepseek-plugin-store) | Independent DSH community plugin store |
+| [awesome-mcp-servers](https://github.com/263311487-ux/awesome-mcp-servers) | Curated MCP server collection |
 
 ---
 
